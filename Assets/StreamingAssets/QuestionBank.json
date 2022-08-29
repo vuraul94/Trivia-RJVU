@@ -1,0 +1,277 @@
+[
+  {
+    "difficultyName": "Super Easy",
+    "questions": [
+      {
+        "statement": "statement se1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement se2",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement se4",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement se5",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement 1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      }
+    ]
+  },
+  {
+    "difficultyName": "Easy",
+    "questions": [
+      {
+        "statement": "statement e1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement e2",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement e3",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement e4",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement e5",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      }
+    ]
+  },
+  {
+    "difficultyName": "Medium",
+    "questions": [
+      {
+        "statement": "statement m1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement m2",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement m3",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement m4",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement m5",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      }
+    ]
+  },
+  {
+    "difficultyName": "Hard",
+    "questions": [
+      {
+        "statement": "statement h1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement h2",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement h3",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement h4",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement h5",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      }
+    ]
+  },
+  {
+    "difficultyName": "Extra Hard",
+    "questions": [
+      {
+        "statement": "statement eh1",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement eh2",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement eh3",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement eh4",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      },
+      {
+        "statement": "statement eh5",
+        "answers": [
+          { "text": "answer 0" },
+          { "text": "answer 1" },
+          { "text": "answer 2" },
+          { "text": "answer 3" }
+        ],
+        "rightAnswer": 0
+      }
+    ]
+  }
+]
